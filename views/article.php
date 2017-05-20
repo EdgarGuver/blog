@@ -21,7 +21,7 @@
  
             </div>
             <footer>
-                <p>Мой первый Блог <br>Copyright &copy; 2015</p>
+                <p>Мой первый Блог <br>Copyright &copy; 2017</p>
             </footer>
         </div>
 
